@@ -11,8 +11,8 @@ client_id = "732a9464-3ec8-42fe-b37f-40ef68934dd0"
 client_secret = "bB6uM8pA1rA1sF5bW4rP2oE1bT4yK4wV5vL7iP8jP1yI6mH7eJ"
 redirect_uri = 'https://www.google.ca'
 #auth_user and auth_pass can be any digi-key account
-auth_user = "Xelynega"
-auth_pass = "Skringe99"
+auth_user = ""
+auth_pass = ""
 auth_key = ""
 
 #Get one time use auth-key to exchange for API token
